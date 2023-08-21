@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,400;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,400;1,700&display=swap");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+@font-face {
+  font-family: 'Adero Trial Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adero Trial Regular'), url('../public/font/AderotrialRegular-ZVreq.woff') format('woff');
+  }
+  
+*,
+*::before,
+*::after {
+  
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+
+
+body {
+  @apply bg-primary text-[white] bg-dotted-spacing-10 bg-dotted-gray-700 ;
+}
+
+
+/* App.css or your custom CSS file */
+.logo{
+  font-family: 'Adero Trial Regular', sans-serif;
+}
+
+.highcharts-no-tooltip{
+  border-radius: 50px;
+}
