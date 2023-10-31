@@ -72,12 +72,12 @@ Feel free to modify the instructions according to your specific project's struct
 
 # Images
 >Home Page
-![](https://github.com/Yash-Sakre/MeshHawk/blob/main/Screenshot%202023-08-21%20at%2017-58-56%20MeshHawk.png)
+![](https://github.com/ranjit7858/MeshHawk/blob/main/Screenshot%202023-08-21%20at%2017-58-56%20MeshHawk.png)
 
 >Upload page
-![](https://github.com/Yash-Sakre/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-41-03%20Vite%20React.png)
+![](https://github.com/ranjit7858/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-41-03%20Vite%20React.png)
 
 
 >Mesh Network Graph 
-![](https://github.com/Yash-Sakre/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-42-02%20Vite%20React.png)
-![](https://github.com/Yash-Sakre/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-42-11%20Vite%20React.png)
+![](https://github.com/ranjit7858/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-42-02%20Vite%20React.png)
+![](https://github.com/ranjit7858/MeshHawk/blob/main/Screenshot%202023-08-09%20at%2002-42-11%20Vite%20React.png)
